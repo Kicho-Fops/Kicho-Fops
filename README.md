@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kicho!!</h1>
-<h3 align="center">Im a 20 year old 4th semester Computer Science student with interest in Data Science, developing with LLM and Music</h3>
+<h3 align="center">Im a 20 year old 5th semester Computer Science student with interest in Data Science, developing with LLM and Music</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirill-makienko-tkachenko&label=Profile%20views&color=0e75b6&style=flat-square" alt="kirill-makienko-tkachenko" /> </p>
 
