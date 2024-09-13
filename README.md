@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirill-makienko-tkachenko&label=Profile%20views&color=0e75b6&style=flat-square" alt="kirill-makienko-tkachenko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirill-makienko-tkachenko" alt="kirill-makienko-tkachenko" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kicho-Fops" alt="Kicho-Fops" /></a> </p>
 
 - 🔭 I’m currently working on **on my own startup with a Discord Bot that will serve a user with a game server**
 
